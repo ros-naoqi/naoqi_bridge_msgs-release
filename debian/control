@@ -1,0 +1,12 @@
+Source: ros-jade-naoqi-bridge-msgs
+Section: misc
+Priority: extra
+Maintainer: kknese <kknese@todo.todo>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-genmsg, ros-jade-geometry-msgs, ros-jade-message-generation, ros-jade-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-naoqi-bridge-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-genmsg, ros-jade-geometry-msgs, ros-jade-message-generation, ros-jade-message-runtime, ros-jade-std-msgs
+Description: The naoqi_bridge_messages package
