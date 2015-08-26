@@ -1,0 +1,33 @@
+ros-jade-naoqi-bridge-msgs (0.0.4-0trusty) trusty; urgency=high
+
+  * Merge pull request #2 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/2> from vrabaud/master
+    add a message concerning the robot information
+  * add a service to get robot info
+  * add a message concerning the robot information
+  * update package.xml with description and author
+  * Contributors: Karsten Knese, Vincent Rabaud
+
+ -- Karsten Knese <karsten.knese@gmail.com>  Tue, 25 Aug 2015 22:00:00 -0000
+
+ros-jade-naoqi-bridge-msgs (0.0.3-0trusty) trusty; urgency=high
+
+  * remove legacy msgs
+  * replace tag in package.xml
+  * fix double message_runtine dependency
+  * msg transfer
+  * fix message_generation vs runtime
+  * Contributors: Karsten Knese, Vincent Rabaud
+
+ -- Karsten Knese <karsten.knese@gmail.com>  Wed, 29 Jul 2015 22:00:00 -0000
+
+ros-jade-naoqi-bridge-msgs (0.0.2-0trusty) trusty; urgency=high
+
+  * add confidence
+  * Merge pull request #1 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/1> from lsouchet/master
+    Add Event, PoseWithConfidence and Status msgs.
+  * Add Event, PoseWithConfidence and Status msgs.
+  * Contributors: Karsten Knese, karsten1987, lsouchet
+
+ -- kknese <kknese@todo.todo>  Tue, 09 Jun 2015 22:00:00 -0000
+
+
