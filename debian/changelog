@@ -1,0 +1,43 @@
+ros-indigo-naoqi-bridge-msgs (0.0.5-0saucy) saucy; urgency=high
+
+  * add orthogonal / tangential security distance service files
+  * change constants with capital letters
+  * increase touched hand directions and move it in msg folder correctly
+  * add back bumper value for Pepper
+  * Contributors: Kanae Kochigami, Vincent Rabaud
+
+ -- Karsten Knese <karsten.knese@gmail.com>  Sat, 14 Nov 2015 23:00:00 -0000
+
+ros-indigo-naoqi-bridge-msgs (0.0.4-0saucy) saucy; urgency=high
+
+  * Merge pull request #2 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/2> from vrabaud/master
+    add a message concerning the robot information
+  * add a service to get robot info
+  * add a message concerning the robot information
+  * update package.xml with description and author
+  * Contributors: Karsten Knese, Vincent Rabaud
+
+ -- Karsten Knese <karsten.knese@gmail.com>  Tue, 25 Aug 2015 22:00:00 -0000
+
+ros-indigo-naoqi-bridge-msgs (0.0.3-0saucy) saucy; urgency=high
+
+  * remove legacy msgs
+  * replace tag in package.xml
+  * fix double message_runtine dependency
+  * msg transfer
+  * fix message_generation vs runtime
+  * Contributors: Karsten Knese, Vincent Rabaud
+
+ -- Karsten Knese <karsten.knese@gmail.com>  Wed, 29 Jul 2015 22:00:00 -0000
+
+ros-indigo-naoqi-bridge-msgs (0.0.2-0saucy) saucy; urgency=high
+
+  * add confidence
+  * Merge pull request #1 <https://github.com/ros-naoqi/naoqi_bridge_msgs/issues/1> from lsouchet/master
+    Add Event, PoseWithConfidence and Status msgs.
+  * Add Event, PoseWithConfidence and Status msgs.
+  * Contributors: Karsten Knese, karsten1987, lsouchet
+
+ -- kknese <kknese@todo.todo>  Tue, 09 Jun 2015 22:00:00 -0000
+
+
