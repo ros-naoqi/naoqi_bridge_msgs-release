@@ -1,3 +1,26 @@
+## naoqi_bridge_msgs (kinetic) - 0.0.5-2
+
+The packages in the `naoqi_bridge_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic naoqi_bridge_msgs` on `Thu, 19 May 2016 16:15:39 -0000`
+
+The `naoqi_bridge_msgs` package was released.
+
+Version of package(s) in repository `naoqi_bridge_msgs`:
+
+- upstream repository: https://github.com/ros-naoqi/naoqi_bridge_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.5-1`
+- new version: `0.0.5-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## naoqi_bridge_msgs (jade) - 0.0.5-0
 
 The packages in the `naoqi_bridge_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade naoqi_bridge_msgs` on `Sun, 15 Nov 2015 13:04:47 -0000`
