@@ -1,3 +1,26 @@
+## naoqi_bridge_msgs (indigo) - 0.0.8-0
+
+The packages in the `naoqi_bridge_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release naoqi_bridge_msgs --track indigo --rosdistro indigo` on `Thu, 15 Feb 2018 07:02:58 -0000`
+
+The `naoqi_bridge_msgs` package was released.
+
+Version of package(s) in repository `naoqi_bridge_msgs`:
+
+- upstream repository: https://github.com/ros-naoqi/naoqi_bridge_msgs.git
+- release repository: https://github.com/ros-naoqi/naoqi_bridge_msgs-release.git
+- rosdistro version: `0.0.6-0`
+- old version: `0.0.6-0`
+- new version: `0.0.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## naoqi_bridge_msgs (kinetic) - 0.0.6-0
 
 The packages in the `naoqi_bridge_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release naoqi_bridge_msgs --track kinetic --rosdistro kinetic` on `Tue, 08 Nov 2016 08:46:27 -0000`
