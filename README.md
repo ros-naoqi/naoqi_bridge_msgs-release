@@ -1,5 +1,28 @@
 ## naoqi_bridge_msgs (melodic) - 0.0.8-0
 
+The packages in the `naoqi_bridge_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release naoqi_bridge_msgs --rosdistro melodic` on `Fri, 20 Dec 2019 13:57:48 -0000`
+
+The `naoqi_bridge_msgs` package was released.
+
+Version of package(s) in repository `naoqi_bridge_msgs`:
+
+- upstream repository: https://github.com/ros-naoqi/naoqi_bridge_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.8--1`
+- new version: `0.0.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.16.1`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
+## naoqi_bridge_msgs (melodic) - 0.0.8-0
+
 The packages in the `naoqi_bridge_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release naoqi_bridge_msgs --rosdistro melodic` on `Fri, 20 Dec 2019 13:52:33 -0000`
 
 The `naoqi_bridge_msgs` package was released.
