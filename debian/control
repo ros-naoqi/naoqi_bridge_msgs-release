@@ -1,0 +1,15 @@
+Source: ros-noetic-naoqi-bridge-msgs
+Section: misc
+Priority: optional
+Maintainer: Karsten Knese <karsten.knese@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-actionlib-msgs, ros-noetic-catkin, ros-noetic-genmsg, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-nav-msgs, ros-noetic-sensor-msgs, ros-noetic-std-msgs, ros-noetic-trajectory-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-naoqi-bridge-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib-msgs, ros-noetic-genmsg, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-nav-msgs, ros-noetic-sensor-msgs, ros-noetic-std-msgs, ros-noetic-trajectory-msgs
+Conflicts: ros-noetic-naoqi-msgs
+Replaces: ros-noetic-naoqi-msgs
+Description: The naoqi_bridge_msgs package provides custom messages for running Aldebaran's robot such as NAO and Pepper.
+ See the packages nao_robot and pepper_robot for details.
